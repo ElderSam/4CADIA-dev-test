@@ -1,19 +1,3 @@
-# O trabalho por aqui na 4CADIA Factory
-
-Que tal fazer parte de um time com atitude? Participar de uma das maiores disrupções no mercado? Ter a oportunidade de trabalhar com tecnologias e conceitos inovadores, como:
-
-* Práticas ágeis
-* Blockchain
-* Cloud (AWS, IBM, Google Cloud e afins)
-* Data Science
-* Escalabilidade, CI e CD
-* Micro services e aplicações distribuídas
-* Git utilizando Gitflow
-* Angular/React/Vue
-* NodeJS/NestJS/Express
-* Bootstrap/Material Design
-* TDD e BDD
-
 # Tecnologias/Padrões
 
 Caso precise escolher, sugerimos utilizar as seguintes tecnologias :
@@ -27,18 +11,6 @@ Caso precise escolher, sugerimos utilizar as seguintes tecnologias :
 * MongoDB, Postgre, CassandraDB, Redis, ou qualquer outra tecnologia NoSQL similar (se necessário)
 * Qualquer tecnologia ou padrão complementar as citadas anteriormente são permitidas com as devidas justificativas no README.
 
-Caso tenha familiaridade com outras tecnologias e queira utilizar no lugar de alguma dessas, favor justificar no README juntamente com o motivo e prós e contras.
-Temos preferência pelas linguagens (em ordem decrescente de utilização):
-
-* C# e/ou .net
-* Go
-* Python
-* C e/ou C++
-* Rust
-* Java
-* Ruby
-* PHP
-
 # A Prova
 
 Você será avaliado pela qualidade do código, pela modularidade, pela legibilidade, pela criatividade e pela quantidade de funcionalidades básicas e extra.
@@ -50,30 +22,10 @@ Não se preocupe em cumprir todo o escopo, caso não tenha disponibilidade/habil
 Prazo 1 semana.
 
 ## Tarefas
+[Frontend](/client/README.md)
 
-### Crie uma Single Page para um Open Banking (Você cria o layout e nome, os textos pode utilizar Lorem Ipsum). 
+[Backend](/server/README.md)
 
-O layout e por sua conta, seja criativo.
-Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
-
-Vincule na single page a aplicação solicitada abaixo, redirecionando para Login.
-
-### Crie uma API onde terá os seguintes metodos:
-
-* Register
-* Login
-* Extrato
-* Saldos
-
-### Desenvolva uma aplicação frontend para vinculo das APIs, deve conter, Registro, Login, Dashboard(com saldos) e Extrato de movimentos.
-
-O layout e por sua conta, seja criativo.
-Qualquer funcionalidade extra é bem vinda para agregar na solução básica proposta.
-
-### Crie o banco de dados de sua escolha para administrar as informações.
-
-Utilize a melhor arquitetura de dados e tecnologia de banco de dados que achar melhor.
-Qualquer implementação é válida, desde que seja justificada. Exemplos: Guardar os dados num json para utilizar no frontend mockado :heavy_check_mark:; Guardar os dados em formato de documentos no google firebase :heavy_check_mark:; Guardar os dados dentro de um banco SQL ou NoSQL que sobe num container junto com o backend :heavy_check_mark:.
 
 ### Documentação e arquitetura
 
